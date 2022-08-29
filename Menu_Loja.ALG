@@ -135,14 +135,6 @@ Repita
 
 
 
-     //Se(opcao = 1) Então
-     //    Escreval("Vai aparecer a lista de Alunos")
-     //Fimse
-
-     //Se(opcao = 2) Então
-     //    Escreval("Vai cadastrar um aluno")
-     //Fimse
-
 Até (opcao = "Z")
 
 
